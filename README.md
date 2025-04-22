@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+## Register Number:212224240076
+## Name:CS KIRAN KUMAR
 
 ## Problem Title 
 
